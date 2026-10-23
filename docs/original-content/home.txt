@@ -1,0 +1,193 @@
+Shawarma Grill Paradise – Best Shawaram In Bangalore
+[A href=#content]
+Skip to content
+[A href=https://shawarmagrillparadise.co.in/]
+[IMG src=https://shawarmagrillparadise.co.in/wp-content/uploads/2026/04/Shawarma-logo-2.JPG-150x150.png alt='Shawarma Grill Paradise' w=150 h=150]
+[A href=https://shawarmagrillparadise.co.in/]
+Home
+[A href=https://shawarmagrillparadise.co.in/about-us/]
+About Us
+[A href=https://shawarmagrillparadise.co.in/menu/]
+Menu
+[A href=https://shawarmagrillparadise.co.in/contact-us/]
+Contact Us
++91 866-0347150
++91 866-0347150
+[A href=https://shawarmagrillparadise.co.in/]
+[IMG src=https://shawarmagrillparadise.co.in/wp-content/uploads/2026/04/Shawarma-logo-2.JPG-150x150.png alt='Shawarma Grill Paradise' w=150 h=150]
+[BUTTON]
+[A href=https://shawarmagrillparadise.co.in/]
+Home
+[A href=https://shawarmagrillparadise.co.in/about-us/]
+About Us
+[A href=https://shawarmagrillparadise.co.in/menu/]
+Menu
+[A href=https://shawarmagrillparadise.co.in/contact-us/]
+Contact Us
+  --widget:image-box
+  --widget:container
+[IMG src=https://shawarmagrillparadise.co.in/wp-content/uploads/2018/10/divider-free-img-1.png alt='' w=200 h=35]
+Bold Flavors. Good Vibes.
+  --widget:image-box
+  --widget:container
+<h1>
+Made with Love, Served with a Smile
+We blend global flavors, local ingredients, and creative flair to bring you a dining experience that’s fresh, vibrant, and unforgettable.
+  --widget:button
+  --widget:container
+[A href=https://shawarmagrillparadise.co.in/menu/]
+Explore MENU
+  --widget:image-box
+  --widget:container
+[IMG src=https://shawarmagrillparadise.co.in/wp-content/uploads/2018/10/bbbq-free-img.png alt='' w=100 h=100]
+<h2>
+Authentic Shawarma, Made Fresh Every Day
+  --widget:image-box
+  --widget:container
+We serve juicy, flavorful shawarmas wrapped in soft kuboos and rumali, packed with perfectly grilled chicken and signature sauces.
+From classic rolls to cheesy and spicy peri peri options, every bite is crafted for taste and freshness. Whether you're grabbing a quick bite or a full meal, we’ve got something delicious waiting for you.
+  --widget:button
+  --widget:container
+[A href=https://shawarmagrillparadise.co.in/menu/]
+Menu
+  --widget:mobile__width-initial
+  --widget:container
+[IMG src=https://shawarmagrillparadise.co.in/wp-content/uploads/2026/04/swaramaa.jpeg alt='' w=483 h=635]
+  --widget:mobile__width-initial
+  --widget:container
+[IMG src=https://shawarmagrillparadise.co.in/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-29-at-11.21.57-AM-1.jpeg alt='' w=669 h=600]
+  --widget:heading
+  --widget:container
+<h3>
+Featured On
+  --widget:image-carousel
+  --widget:container
+[IMG src=https://shawarmagrillparadise.co.in/wp-content/uploads/2026/04/download-150x148.png alt='download' w=None h=None]
+[IMG src=https://shawarmagrillparadise.co.in/wp-content/uploads/2026/04/download-150x148.jpg alt='download' w=None h=None]
+  --widget:image-box
+  --widget:container
+[IMG src=https://shawarmagrillparadise.co.in/wp-content/uploads/2018/10/divider-free-img-1.png alt='' w=200 h=35]
+A Taste Worth Remembering
+  --widget:image-box
+  --widget:container
+<h2>
+Where Every Dish Tells a Story
+Step into a world of bold spices, creative combinations, and irresistible aromas. Our chefs push boundaries to bring you dishes that excite, surprise, and satisfy.
+  --widget:heading
+  --widget:container
+<h3>
+Kuboos Shawarma
+  --widget:icon-box
+  --widget:container
+<h4>
+₹109
+Soft kuboos bread wrapped with juicy grilled chicken, fresh veggies, and creamy garlic sauce.
+  --widget:image
+  --widget:container
+[IMG src=https://shawarmagrillparadise.co.in/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-01-at-12.21.24-PM.jpeg alt='' w=840 h=600]
+  --widget:heading
+  --widget:container
+<h3>
+Kuboos Cheese Shawarma
+  --widget:icon-box
+  --widget:container
+<h4>
+₹139
+Loaded with melted cheese, tender chicken, and rich sauces for a creamy bite.
+  --widget:image
+  --widget:container
+[IMG src=https://shawarmagrillparadise.co.in/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-01-at-12.24.10-PM.jpeg alt='' w=783 h=600]
+  --widget:heading
+  --widget:container
+<h3>
+Kuboos Plate Shawarma
+  --widget:icon-box
+  --widget:container
+<h4>
+₹199
+Served with kuboos, grilled chicken, fries, salad, and garlic dip.
+  --widget:image
+  --widget:container
+[IMG src=https://shawarmagrillparadise.co.in/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-01-at-12.22.56-PM.jpeg alt='' w=1200 h=1200]
+  --widget:heading
+  --widget:container
+<h3>
+Rumali Shwarma +french fries + Coke
+  --widget:icon-box
+  --widget:container
+<h4>
+₹219
+Spicy peri peri twist with smoky grilled chicken for that extra kick of flavor.
+  --widget:image
+  --widget:container
+[IMG src=https://shawarmagrillparadise.co.in/wp-content/uploads/2026/04/Khuboo-Shawarma-with-peri-peri.jpeg alt='' w=669 h=600]
+  --widget:heading
+  --widget:container
+<h3>
+Burger Shawarma
+  --widget:icon-box
+  --widget:container
+<h4>
+₹119
+Perfect mix of spicy and cheesy—bold flavor in every bite.
+  --widget:image
+  --widget:container
+[IMG src=https://shawarmagrillparadise.co.in/wp-content/uploads/2026/04/Burger-showrmajpeg.jpeg alt='' w=1280 h=854]
+  --widget:heading
+  --widget:container
+<h3>
+Kuboos Peri Peri Shwarma
+  --widget:icon-box
+  --widget:container
+<h4>
+₹119
+Premium rumali wrap served as a full plate with sides and sauces.
+  --widget:image
+  --widget:container
+[IMG src=https://shawarmagrillparadise.co.in/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-01-at-12.24.39-PM.jpeg alt='' w=1600 h=1120]
+  --widget:image-box
+  --widget:container
+Fresh Shawarma, Every Bite Matters
+  --widget:image-box
+  --widget:container
+<h2>
+It’s Happy Hour Somewhere!
+Enjoy freshly grilled chicken shawarmas wrapped in soft kuboos and rumali, loaded with rich sauces, cheese, and bold peri peri flavors.
+  --widget:text-editor
+  --widget:container
+Monday – Sunday| 4 PM – 11 PM
+  --widget:button
+  --widget:container
+[A href=https://shawarmagrillparadise.co.in/menu/]
+Menu
+  --widget:image-box
+  --widget:container
+[IMG src=https://shawarmagrillparadise.co.in/wp-content/uploads/2018/10/divider-free-img-1.png alt='' w=200 h=35]
+<h2>
+What Our Guests Are Saying
+Our customers don’t just come for food — they come for taste, freshness, and that perfect shawarma experience. Here’s why they keep coming back.
+  --widget:testimonial
+  --widget:container
+“Best shawarma in town! Juicy chicken, fresh wraps, and amazing garlic sauce.”
+Monica
+  --widget:testimonial
+  --widget:container
+“Tried the peri peri shawarma and it was🔥 Perfect spice and flavor!”
+Rakesh
+  --widget:testimonial
+  --widget:container
+“Cheese shawarma is a must-try. Super creamy and loaded!”
+Mahesh
+  --widget:testimonial
+  --widget:container
+“Great taste, quick service, and very hygienic. My go-to place now.”
+Ankit
+[IMG src=https://websitedemos.net/bbq-restaurant-02/wp-content/uploads/sites/284/2018/10/divider-free-img-1.png alt='' w=None h=None]
+<h2>
+Shwarma Grill Paradise
+Call Us
++91 866-0347150
+Copyright © 2026 Shawarma Grill Paradise | Powered by Shawarma Grill Paradise
+[A href=https://www.facebook.com/share/1NS6DR5rRk/?mibextid=wwXIfr]
+[A href=https://www.instagram.com/shawarma_grill_paradise?igsh=MWRmOTJ3b2Z6cGRsZw==]
+WhatsApp us

@@ -1,0 +1,87 @@
+About Us – Shawarma Grill Paradise
+[A href=#content]
+Skip to content
+[A href=https://shawarmagrillparadise.co.in/]
+[IMG src=https://shawarmagrillparadise.co.in/wp-content/uploads/2026/04/Shawarma-logo-2.JPG-150x150.png alt='Shawarma Grill Paradise' w=150 h=150]
+[A href=https://shawarmagrillparadise.co.in/]
+Home
+[A href=https://shawarmagrillparadise.co.in/about-us/]
+About Us
+[A href=https://shawarmagrillparadise.co.in/menu/]
+Menu
+[A href=https://shawarmagrillparadise.co.in/contact-us/]
+Contact Us
++91 866-0347150
++91 866-0347150
+[A href=https://shawarmagrillparadise.co.in/]
+[IMG src=https://shawarmagrillparadise.co.in/wp-content/uploads/2026/04/Shawarma-logo-2.JPG-150x150.png alt='Shawarma Grill Paradise' w=150 h=150]
+[BUTTON]
+[A href=https://shawarmagrillparadise.co.in/]
+Home
+[A href=https://shawarmagrillparadise.co.in/about-us/]
+About Us
+[A href=https://shawarmagrillparadise.co.in/menu/]
+Menu
+[A href=https://shawarmagrillparadise.co.in/contact-us/]
+Contact Us
+  --widget:image-box
+  --widget:container
+[IMG src=https://shawarmagrillparadise.co.in/wp-content/uploads/2018/10/divider-free-img-1.png alt='' w=200 h=35]
+Fresh Flavors, Crafted with Passion
+  --widget:icon-box
+  --widget:container
+<h1>
+About Us
+What started as a passion for serving authentic street-style shawarmas has grown into a place loved by food lovers. We focus on fresh ingredients, perfectly grilled chicken, soft kuboos and rumali wraps, and signature sauces that bring every bite to life.
+  --widget:heading
+  --widget:container
+<h2>
+Our Shawarma Story
+  --widget:icon-box
+  --widget:container
+Serving Fresh & Flavorful Shawarmas Every Day
+Our journey started with a simple idea — to serve authentic, street-style shawarmas made with fresh ingredients and bold flavors. From perfectly grilled chicken to soft kuboos and rumali wraps, every item is prepared with care and consistency.
+  --widget:image-box
+  --widget:container
+[IMG src=https://shawarmagrillparadise.co.in/wp-content/uploads/2018/10/divider-free-img-1.png alt='' w=200 h=35]
+We believe great food should be quick, tasty, and satisfying — something you can enjoy anytime, anywhere.
+Whether it’s a classic shawarma, a cheesy delight, or a spicy peri peri wrap, every bite is crafted to deliver maximum flavor. With fast service, hygienic preparation, and a passion for quality, we aim to be your favorite go-to shawarma spot.
+  --widget:image-carousel
+  --widget:container
+[IMG src=https://shawarmagrillparadise.co.in/wp-content/uploads/2026/04/Screenshot-2026-04-17-180048.png alt='Screenshot 2026-04-17 180048' w=None h=None]
+[IMG src=https://shawarmagrillparadise.co.in/wp-content/uploads/2026/04/Rumali-combo-.JPG.jpeg alt='Rumali combo .JPG' w=None h=None]
+[IMG src=https://shawarmagrillparadise.co.in/wp-content/uploads/2026/04/Screenshot-2026-04-17-175508-1.png alt='Screenshot 2026-04-17 175508' w=None h=None]
+[IMG src=https://shawarmagrillparadise.co.in/wp-content/uploads/2026/04/Screenshot-2026-04-17-175101.png alt='Screenshot 2026-04-17 175101' w=None h=None]
+  --widget:image-box
+  --widget:container
+<h2>
+Your Shawarma, Your Flavor Adventure
+Crafted with Passion, Served with Pride
+  --widget:divider--view-line
+  --widget:container
+  --widget:text-editor
+  --widget:container
+From classic shawarmas to cheesy and spicy peri peri wraps, every bite is loaded with juicy grilled chicken, fresh ingredients, and signature sauces made to satisfy your cravings.
+  --widget:button
+  --widget:container
+[A href=#]
+View Menu
+  --widget:tablet__width-initial
+  --widget:container
+<h2>
+The Shawarma Experience
+Enjoy more than just a quick bite — experience freshly grilled chicken, soft wraps, and rich flavors in every shawarma. From the first bite to the last, we focus on taste, freshness, and satisfaction that keeps you coming back.
+  --widget:tablet__width-initial
+  --widget:container
+<h2>
+Our Core Values
+We are committed to quality, hygiene, and consistency. Using fresh ingredients, perfectly grilled chicken, and signature sauces, we ensure every shawarma delivers the same great taste — fast, fresh, and full of flavor.
+[IMG src=https://websitedemos.net/bbq-restaurant-02/wp-content/uploads/sites/284/2018/10/divider-free-img-1.png alt='' w=None h=None]
+<h2>
+Shwarma Grill Paradise
+Call Us
++91 866-0347150
+Copyright © 2026 Shawarma Grill Paradise | Powered by Shawarma Grill Paradise
+[A href=https://www.facebook.com/share/1NS6DR5rRk/?mibextid=wwXIfr]
+[A href=https://www.instagram.com/shawarma_grill_paradise?igsh=MWRmOTJ3b2Z6cGRsZw==]
+WhatsApp us

@@ -1,0 +1,122 @@
+Contact Us – Shawarma Grill Paradise
+[A href=#content]
+Skip to content
+[A href=https://shawarmagrillparadise.co.in/]
+[IMG src=https://shawarmagrillparadise.co.in/wp-content/uploads/2026/04/Shawarma-logo-2.JPG-150x150.png alt='Shawarma Grill Paradise' w=150 h=150]
+[A href=https://shawarmagrillparadise.co.in/]
+Home
+[A href=https://shawarmagrillparadise.co.in/about-us/]
+About Us
+[A href=https://shawarmagrillparadise.co.in/menu/]
+Menu
+[A href=https://shawarmagrillparadise.co.in/contact-us/]
+Contact Us
++91 866-0347150
++91 866-0347150
+[A href=https://shawarmagrillparadise.co.in/]
+[IMG src=https://shawarmagrillparadise.co.in/wp-content/uploads/2026/04/Shawarma-logo-2.JPG-150x150.png alt='Shawarma Grill Paradise' w=150 h=150]
+[BUTTON]
+[A href=https://shawarmagrillparadise.co.in/]
+Home
+[A href=https://shawarmagrillparadise.co.in/about-us/]
+About Us
+[A href=https://shawarmagrillparadise.co.in/menu/]
+Menu
+[A href=https://shawarmagrillparadise.co.in/contact-us/]
+Contact Us
+  --widget:image-box
+  --widget:container
+[IMG src=https://shawarmagrillparadise.co.in/wp-content/uploads/2018/10/divider-free-img-1.png alt='' w=200 h=35]
+Reserve A Table
+  --widget:icon-box
+  --widget:container
+<h1>
+Contact Us
+Whether you have a question, want to book a table, or just share your love for BBQ, our team is here to help. Reach out and let’s make your next visit unforgettable.
+  --widget:heading
+  --widget:container
+<h2>
+Ready for a Flavor Adventure?
+  --widget:icon-box
+  --widget:container
+Book Your Table or Order Online Today
+Don’t wait — enjoy smoky, mouthwatering BBQ made fresh just for you. Gather your friends, your appetite, and get ready for a meal to remember.
+  --widget:heading
+  --widget:container
+<h3>
+For Restaurant
+  --widget:heading
+  --widget:container
+<h4>
++91 866-0347150
+  --widget:divider--view-line
+  --widget:container
+  --widget:image-box
+  --widget:container
+[IMG src=https://shawarmagrillparadise.co.in/wp-content/uploads/2018/10/divider-free-img-1.png alt='' w=200 h=35]
+<h2>
+We’d Love Your Thoughts
+Your feedback helps us make every visit better. Share your experience, suggestions, or favorite dishes — we’re all ears and always eager to improve.
+  --widget:shortcode
+  --widget:container
+[FORM action=None method=post]
+[INPUT type=hidden name=form-id ph=None req=None]
+[INPUT type=hidden name=srfm-form-language ph=None req=None]
+[INPUT type=hidden name=srfm-sender-email-field ph=None req=None]
+[INPUT type=hidden name=None ph=None req=None]
+There was an error trying to submit your form. Please try again.
+[INPUT type=text name=srfm-input-bb203384-lbl-WW91ciBOYW1l-text-field ph='Your Name *' req=true]
+This field is required.
+[INPUT type=email name=srfm-email-553d90cf-lbl-RW1haWw-email ph='Email *' req=true]
+This field is required.
+[INPUT type=tel name=srfm-phone-8cfb7382-lbl-Q29udGFjdCBOdW1iZXI-phone-number ph='Contact Number *' req=true]
+This field is required.
+[INPUT type=text name=srfm-input-88a1fb2e-lbl-U3ViamVjdA-text-field-1 ph='Subject *' req=true]
+This field is required.
+[TEXTAREA type=None name=srfm-textarea-3e41a734-lbl-TWVzc2FnZQ-textarea ph='Message ' req=false]
+[BUTTON]
+Send
+There was an error trying to submit your form. Please try again.
+  --widget:google_maps
+  --widget:container
+[IFRAME https://maps.google.com/maps?q=Attible%20Bangalore&t=m&z=14&output=embed&iwloc=near]
+  --widget:image-box
+  --widget:container
+[IMG src=https://shawarmagrillparadise.co.in/wp-content/uploads/2018/10/divider-free-img-1.png alt='' w=200 h=35]
+<h3>
+Opening Hours
+The smoker’s rolling and the doors are open — see our serving times below. Come hungry!
+  --widget:heading
+  --widget:container
+<h4>
+Mon - Fri
+  --widget:heading
+  --widget:container
+<h4>
+Sat - Sun
+  --widget:heading
+  --widget:container
+<h4>
+05 PM --- 11 PM
+  --widget:heading
+  --widget:container
+<h4>
+05 PM --- 11 PM
+  --widget:heading
+  --widget:container
+<h3>
+It’s Happy Hour Somewhere!
+  --widget:icon-box
+  --widget:container
+<h4>
+Gather your crew and enjoy discounted pints, and tasty bites that keep the good vibes going all evening long.
+Monday – Sunday| 5 PM – 11 PM
+[IMG src=https://websitedemos.net/bbq-restaurant-02/wp-content/uploads/sites/284/2018/10/divider-free-img-1.png alt='' w=None h=None]
+<h2>
+Shwarma Grill Paradise
+Call Us
++91 866-0347150
+Copyright © 2026 Shawarma Grill Paradise | Powered by Shawarma Grill Paradise
+[A href=https://www.facebook.com/share/1NS6DR5rRk/?mibextid=wwXIfr]
+[A href=https://www.instagram.com/shawarma_grill_paradise?igsh=MWRmOTJ3b2Z6cGRsZw==]
+WhatsApp us

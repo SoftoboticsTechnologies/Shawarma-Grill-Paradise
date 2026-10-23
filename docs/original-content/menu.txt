@@ -1,0 +1,246 @@
+Menu – Shawarma Grill Paradise
+[A href=#content]
+Skip to content
+[A href=https://shawarmagrillparadise.co.in/]
+[IMG src=https://shawarmagrillparadise.co.in/wp-content/uploads/2026/04/Shawarma-logo-2.JPG-150x150.png alt='Shawarma Grill Paradise' w=150 h=150]
+[A href=https://shawarmagrillparadise.co.in/]
+Home
+[A href=https://shawarmagrillparadise.co.in/about-us/]
+About Us
+[A href=https://shawarmagrillparadise.co.in/menu/]
+Menu
+[A href=https://shawarmagrillparadise.co.in/contact-us/]
+Contact Us
++91 866-0347150
++91 866-0347150
+[A href=https://shawarmagrillparadise.co.in/]
+[IMG src=https://shawarmagrillparadise.co.in/wp-content/uploads/2026/04/Shawarma-logo-2.JPG-150x150.png alt='Shawarma Grill Paradise' w=150 h=150]
+[BUTTON]
+[A href=https://shawarmagrillparadise.co.in/]
+Home
+[A href=https://shawarmagrillparadise.co.in/about-us/]
+About Us
+[A href=https://shawarmagrillparadise.co.in/menu/]
+Menu
+[A href=https://shawarmagrillparadise.co.in/contact-us/]
+Contact Us
+  --widget:image-box
+  --widget:container
+[IMG src=https://shawarmagrillparadise.co.in/wp-content/uploads/2018/10/divider-free-img-1.png alt='' w=200 h=35]
+Feast Your Eyes
+  --widget:icon-box
+  --widget:container
+<h1>
+Our Menu
+From tender ribs to slow-smoked brisket and bold, house-made sides, every dish is crafted with care and flavor. Explore our menu and discover the BBQ favorites that keep our guests coming back for more.
+  --widget:html
+  --widget:container
+Shawarma Grill Paradise
+<h1>
+Shawarma Grill Paradise
+[A href=#rolls]
+Rolls
+[A href=#special]
+Special
+[A href=#peri]
+Peri
+[A href=#cheese]
+Cheese
+[A href=#plate]
+Plate
+[A href=#veg]
+Veg
+[A href=#signature]
+Signature
+[A href=#combos]
+Combos
+[A href=#snacks]
+Snacks
+[A href=#fries]
+Fries
+[A href=#shakes]
+Shakes
+[A href=#extras]
+Extras
+[A href=#drinks]
+Drinks
+[A href=#mojito]
+Mojito
+[A href=#dessert]
+Dessert
+<h2>
+Shawarma Rolls
+Kuboos Shawarma
+₹79
+Order
+Rumali Shawarma
+₹99
+Order
+Burger Shawarma
+₹79
+Order
+<h2>
+Special Shawarma
+Whole Meat Kuboos
+₹119
+Order
+Whole Meat Rumali
+₹139
+Order
+<h2>
+Peri Peri Shawarma
+Kuboos Peri Peri
+₹89
+Order
+Rumali Peri Peri
+₹109
+Order
+Burger Peri Peri
+₹89
+Order
+<h2>
+Cheese Shawarma
+Kuboos Cheese
+₹99
+Order
+Rumali Cheese
+₹109
+Order
+<h2>
+Plate Shawarma
+Kuboos Plate
+₹169
+Order
+Rumali Plate
+₹189
+Order
+<h2>
+Veg Shawarma
+Paneer Shawarma
+₹89
+Order
+<h2>
+Signature Dishes
+Matkha Shawarma
+₹199
+Order
+Special Burger Shawarma with Cheese
+₹119
+Order
+Chips Shawarma
+₹99
+Order
+<h2>
+Combos
+Kuboos Combo (Fries + Coke)
+₹169
+Order
+Rumali Combo
+₹179
+Order
+Burger Combo
+₹159
+Order
+Paneer Combo
+₹159
+Order
+<h2>
+Quick Snacks
+Chicken Nuggets (8 pcs)
+₹99
+Order
+Veg Nuggets (8 pcs)
+₹89
+Order
+Chicken Fingers
+₹99
+Order
+Cheese Corn Nuggets
+₹89
+Order
+Chicken Popcorn
+₹99
+Order
+<h2>
+Fries
+Normal Fries
+₹69
+Order
+Peri Peri Fries
+₹79
+Order
+<h2>
+Milkshakes
+Strawberry
+₹59
+Order
+Vanilla
+₹59
+Order
+Oreo
+₹69
+Order
+KitKat
+₹69
+Order
+<h2>
+Extras
+Kuboos
+₹10
+Order
+Rumali
+₹20
+Order
+Extra Mayo
+₹5
+Order
+<h2>
+Beverages
+Coke / Pepsi / Sprite
+₹20
+Order
+Pulpy (Grape/Mango/Litchi)
+₹49
+Order
+Water Bottle 500ml
+₹10
+Order
+Water Bottle 1L
+₹20
+Order
+<h2>
+Mojitos
+Lime Mint Mojito
+₹59
+Order
+Green Apple Mojito
+₹59
+Order
+Blue Curacao Mojito
+₹59
+Order
+Watermelon Mojito
+₹59
+Order
+<h2>
+Desserts
+Gulab Jamun with Ice Cream
+₹49
+Order
+Tender Coconut Pudding
+₹69
+Order
+Mango Pudding
+₹69
+Order
+[A href=https://wa.me/918660347150]
+💬
+[IMG src=https://websitedemos.net/bbq-restaurant-02/wp-content/uploads/sites/284/2018/10/divider-free-img-1.png alt='' w=None h=None]
+<h2>
+Shwarma Grill Paradise
+Call Us
++91 866-0347150
+Copyright © 2026 Shawarma Grill Paradise | Powered by Shawarma Grill Paradise
+[A href=https://www.facebook.com/share/1NS6DR5rRk/?mibextid=wwXIfr]
+[A href=https://www.instagram.com/shawarma_grill_paradise?igsh=MWRmOTJ3b2Z6cGRsZw==]
+WhatsApp us
