@@ -1,0 +1,386 @@
+/* ==========================================================================
+   Homepage — "grill-house poster" layout
+   Rule for this page: photos are never cropped. Every image renders at its
+   natural aspect ratio (width: 100%; height: auto) — no object-fit: cover,
+   no forced aspect-ratio boxes.
+   ========================================================================== */
+
+.hm img { width: 100%; height: auto; }
+
+/* ---------- 1. Hero ---------- */
+.hm-hero {
+  position: relative;
+  isolation: isolate;
+  overflow: hidden;
+  background: var(--char);
+  color: var(--on-dark);
+  padding-block: clamp(3rem, 2rem + 5vw, 6.5rem) clamp(3.5rem, 2.5rem + 5vw, 7rem);
+}
+.hm-hero::before {
+  /* ember glow behind the spit */
+  content: "";
+  position: absolute;
+  z-index: -1;
+  right: -10%;
+  top: 50%;
+  width: min(900px, 90vw);
+  aspect-ratio: 1;
+  transform: translateY(-50%);
+  background: radial-gradient(circle, rgba(212, 68, 28, 0.55) 0%, rgba(242, 169, 59, 0.18) 40%, transparent 68%);
+  pointer-events: none;
+}
+.hm-hero::after {
+  content: "";
+  position: absolute;
+  z-index: -2;
+  inset: 0;
+  background: url("../images/backgrounds/food-pattern.png") repeat;
+  background-size: 240px;
+  opacity: 0.05;
+  filter: invert(1);
+  pointer-events: none;
+}
+.hm-hero__grid {
+  display: grid;
+  grid-template-columns: 1.15fr 0.85fr;
+  gap: clamp(2.5rem, 1rem + 5vw, 6rem);
+  align-items: center;
+}
+.hm-hero .eyebrow { color: var(--saffron); }
+.hm-hero h1 {
+  color: #fff;
+  font-size: clamp(2.6rem, 1.5rem + 4.6vw, 5.4rem);
+  line-height: 1.02;
+  margin-bottom: 0.45em;
+}
+.hm-hero h1 em {
+  font-style: normal;
+  color: var(--saffron);
+  display: block;
+}
+.hm-hero__lead {
+  font-size: var(--fs-lg);
+  color: var(--on-dark-soft);
+  max-width: 33rem;
+  margin-bottom: 2.25rem;
+}
+.hm-hero .btn--saffron { min-height: 58px; padding-inline: 2rem; font-size: 1rem; }
+
+/* ---------- 1b. Featured On banner ---------- */
+.hm-featured {
+  position: relative;
+  isolation: isolate;
+  overflow: hidden;
+  background: var(--chili);
+  color: #fff;
+  padding-block: clamp(2.5rem, 2rem + 3vw, 4.5rem);
+}
+.hm-featured::before {
+  content: "";
+  position: absolute;
+  z-index: -1;
+  inset: 0;
+  background: url("../images/backgrounds/food-pattern.png") repeat;
+  background-size: 220px;
+  opacity: 0.1;
+  filter: invert(1);
+  pointer-events: none;
+}
+.hm-featured__inner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 2rem 3rem;
+}
+.hm-featured__title {
+  margin: 0;
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  color: #fff;
+  font-size: clamp(1.9rem, 1.3rem + 2.4vw, 3.25rem);
+  font-weight: 800;
+  letter-spacing: -0.02em;
+}
+.hm-featured__title::before {
+  content: "";
+  width: 48px;
+  height: 4px;
+  flex: none;
+  border-radius: 4px;
+  background: var(--saffron);
+}
+.hm-featured__logos { display: flex; gap: clamp(1rem, 0.5rem + 1.5vw, 1.75rem); }
+.hm-featured__card {
+  display: grid;
+  place-items: center;
+  --fh: clamp(130px, 100px + 5vw, 170px);
+  height: var(--fh);
+  padding: 0.75rem clamp(1.25rem, 1rem + 1.5vw, 2.25rem);
+  border-radius: 24px;
+  background: #fff;
+  box-shadow: 0 24px 48px -20px rgba(60, 14, 0, 0.55);
+  transition: transform 0.3s var(--ease), box-shadow 0.3s var(--ease);
+}
+.hm-featured__card:hover { transform: translateY(-6px) rotate(-1.5deg); box-shadow: 0 32px 56px -20px rgba(60, 14, 0, 0.65); }
+.hm .hm-featured__card img { height: calc(var(--fh) - 1.5rem); width: auto; max-width: none; }
+
+/* The spit photo sits whole inside a cream arch; multiply blends its white
+   studio background into the arch so the spit reads as a cut-out. */
+.hm-arch {
+  position: relative;
+  justify-self: center;
+  width: min(100%, 440px);
+  margin: 0;
+  padding: clamp(1.75rem, 1rem + 2.5vw, 2.75rem) clamp(1.25rem, 0.75rem + 2vw, 2.25rem) clamp(1.25rem, 1rem + 1vw, 1.75rem);
+  border-radius: 999px 999px 32px 32px;
+  background: var(--paper);
+  box-shadow: 0 0 0 10px rgba(242, 169, 59, 0.16), 0 40px 80px -30px rgba(0, 0, 0, 0.8);
+}
+.hm-arch img { mix-blend-mode: multiply; }
+.hm-arch__badge {
+  position: absolute;
+  left: -34px;
+  bottom: 18%;
+  width: 112px;
+  height: 112px;
+  padding: 6px;
+  border-radius: 50%;
+  background: var(--char);
+  box-shadow: 0 0 0 4px var(--saffron), 0 18px 40px -10px rgba(0, 0, 0, 0.6);
+  animation: hm-bob 6s ease-in-out infinite;
+}
+.hm .hm-arch__badge img { width: 100%; height: 100%; border-radius: 50%; mix-blend-mode: normal; }
+@keyframes hm-bob {
+  0%, 100% { transform: translateY(0) rotate(-6deg); }
+  50% { transform: translateY(-12px) rotate(4deg); }
+}
+
+/* ---------- 2. Authentic shawarma ---------- */
+.hm-story__grid {
+  display: grid;
+  grid-template-columns: 0.95fr 1.05fr;
+  gap: clamp(2.5rem, 1rem + 5vw, 6rem);
+  align-items: center;
+}
+.hm-story__photo { position: relative; margin: 0 0 1.5rem 1.5rem; }
+.hm-story__photo::before {
+  content: "";
+  position: absolute;
+  z-index: -1;
+  inset: 1.5rem 1.5rem -1.5rem -1.5rem;
+  border-radius: var(--r-lg);
+  background: var(--saffron);
+}
+.hm-story__photo img { border-radius: var(--r-lg); box-shadow: var(--shadow-lg); }
+.hm-story { isolation: isolate; }
+.hm img.hm-story__icon {
+  width: 68px;
+  height: 68px;
+  padding: 12px;
+  border-radius: 50%;
+  background: var(--saffron-soft);
+  margin-bottom: 1.5rem;
+}
+.hm-story__text p { color: var(--ink-soft); }
+.hm-story__text p:first-of-type {
+  font-size: var(--fs-lg);
+  color: var(--ink);
+  font-weight: 500;
+}
+.hm-story__text .btn { margin-top: 1.25rem; }
+
+/* ---------- 3. Dishes (masonry: each photo keeps its own shape) ---------- */
+.hm-dishes { background: var(--paper-2); }
+.hm-dish-wall {
+  columns: 3;
+  column-gap: clamp(1rem, 0.5rem + 1.5vw, 1.75rem);
+}
+.hm-dish {
+  break-inside: avoid;
+  display: block;
+  margin: 0 0 clamp(1rem, 0.5rem + 1.5vw, 1.75rem);
+  padding: 12px 12px 1.4rem;
+  border-radius: var(--r-md);
+  background: var(--card);
+  box-shadow: var(--shadow-sm);
+  transition: transform 0.35s var(--ease), box-shadow 0.35s var(--ease);
+}
+.hm-dish:hover { transform: translateY(-6px) rotate(-0.4deg); box-shadow: var(--shadow-lg); }
+.hm-dish__img { overflow: hidden; border-radius: 12px; background: var(--paper-2); }
+.hm-dish__img img { transition: transform 0.6s var(--ease); }
+.hm-dish:hover .hm-dish__img img { transform: scale(1.04); }
+.hm-dish__head {
+  display: flex;
+  align-items: baseline;
+  gap: 0.6rem;
+  margin: 1.1rem 0.5rem 0.5rem;
+}
+.hm-dish__head::after {
+  /* dotted price leader, like a printed menu */
+  content: "";
+  order: 1;
+  flex: 1;
+  min-width: 1.5rem;
+  border-bottom: 2px dotted var(--line);
+  transform: translateY(-4px);
+}
+.hm-dish h3 { order: 0; margin: 0; font-size: 1.2rem; line-height: 1.2; }
+.hm-dish h4 {
+  order: 2;
+  margin: 0;
+  font-size: 1.2rem;
+  color: var(--chili);
+  white-space: nowrap;
+}
+.hm-dish p { margin: 0 0.5rem; color: var(--ink-soft); font-size: var(--fs-sm); }
+
+/* ---------- 4. Happy hour ---------- */
+.hm-happy__card {
+  position: relative;
+  isolation: isolate;
+  overflow: hidden;
+  display: grid;
+  grid-template-columns: 1.1fr 0.9fr;
+  gap: clamp(2rem, 1rem + 4vw, 4rem);
+  align-items: center;
+  padding: clamp(2rem, 1rem + 4vw, 4.5rem);
+  border-radius: clamp(20px, 2vw, 36px);
+  background: var(--char);
+  color: var(--on-dark);
+}
+.hm-happy__card::before {
+  content: "";
+  position: absolute;
+  z-index: -2;
+  inset: 0;
+  background: url("../images/backgrounds/blackboard.png") center / cover;
+  opacity: 0.55;
+}
+.hm-happy__card::after {
+  content: "";
+  position: absolute;
+  z-index: -1;
+  inset: 0;
+  background: linear-gradient(120deg, rgba(23, 18, 15, 0.95) 40%, rgba(169, 51, 15, 0.55));
+}
+.hm-happy .eyebrow { color: var(--saffron); }
+.hm-happy h2 { color: #fff; }
+.hm-happy p { color: var(--on-dark-soft); }
+.hm-happy__ticket {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.85rem;
+  margin: 0.75rem 0 2rem;
+  padding: 1rem 1.4rem;
+  border-radius: 14px;
+  background: var(--saffron);
+  color: var(--char) !important;
+  font-family: var(--font-display);
+  font-size: clamp(1rem, 0.9rem + 0.5vw, 1.25rem);
+  font-weight: 700;
+  -webkit-mask: radial-gradient(circle 9px at 0 50%, transparent 98%, #000) left / 51% 100% no-repeat,
+                radial-gradient(circle 9px at 100% 50%, transparent 98%, #000) right / 51% 100% no-repeat;
+          mask: radial-gradient(circle 9px at 0 50%, transparent 98%, #000) left / 51% 100% no-repeat,
+                radial-gradient(circle 9px at 100% 50%, transparent 98%, #000) right / 51% 100% no-repeat;
+}
+.hm-happy__ticket svg { width: 22px; height: 22px; flex: none; }
+.hm-happy__photo {
+  margin: 0;
+  border-radius: var(--r-lg);
+  overflow: hidden;
+  border: 8px solid rgba(255, 255, 255, 0.08);
+  transform: rotate(2.5deg);
+  box-shadow: var(--shadow-lg);
+  transition: transform 0.5s var(--ease);
+}
+.hm-happy__photo:hover { transform: rotate(0deg) scale(1.02); }
+
+/* ---------- 5. Testimonials (speech bubbles) ---------- */
+.hm-reviews__grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 1.5rem;
+  align-items: start;
+}
+.hm-review { margin: 0; }
+.hm-review:nth-child(even) { margin-top: 2.5rem; }
+.hm-review blockquote {
+  position: relative;
+  margin: 0 0 1.4rem;
+  padding: 1.75rem 1.5rem;
+  border-radius: 22px 22px 22px 6px;
+  background: var(--card);
+  border: 1px solid var(--line);
+  font-size: 1.05rem;
+  line-height: 1.55;
+  box-shadow: var(--shadow-sm);
+  transition: transform 0.3s var(--ease), box-shadow 0.3s var(--ease);
+}
+.hm-review:nth-child(4n + 1) blockquote { background: var(--chili); color: #fff; border-color: var(--chili); }
+.hm-review:nth-child(4n + 3) blockquote { background: var(--char); color: var(--on-dark); border-color: var(--char); }
+.hm-review blockquote::after {
+  /* bubble tail */
+  content: "";
+  position: absolute;
+  left: 22px;
+  bottom: -11px;
+  width: 20px;
+  height: 20px;
+  background: inherit;
+  border-right: inherit;
+  border-bottom: inherit;
+  transform: rotate(45deg);
+  border-bottom-right-radius: 4px;
+}
+.hm-review:hover blockquote { transform: translateY(-4px); box-shadow: var(--shadow-md); }
+.hm-review figcaption {
+  display: flex;
+  align-items: center;
+  gap: 0.7rem;
+  padding-left: 0.75rem;
+  font-weight: 700;
+}
+.hm-review__avatar {
+  width: 42px;
+  height: 42px;
+  border-radius: 50%;
+  display: grid;
+  place-items: center;
+  background: var(--saffron);
+  color: var(--char);
+  font-family: var(--font-display);
+}
+
+/* ---------- Responsive ---------- */
+@media (max-width: 1100px) {
+  .hm-reviews__grid { grid-template-columns: repeat(2, 1fr); }
+  .hm-review:nth-child(even) { margin-top: 0; }
+  .hm-review:nth-child(2n) { margin-top: 2rem; }
+}
+
+@media (max-width: 960px) {
+  .hm-hero__grid,
+  .hm-story__grid,
+  .hm-happy__card { grid-template-columns: 1fr; }
+  .hm-hero__copy { text-align: left; }
+  .hm-arch { width: min(80%, 380px); }
+  .hm-dish-wall { columns: 2; }
+  .hm-featured__inner { flex-direction: column; text-align: center; }
+  .hm-story__photo { max-width: 560px; }
+  .hm-happy__photo { max-width: 520px; transform: none; }
+}
+
+@media (max-width: 600px) {
+  .hm-dish-wall { columns: 1; }
+  .hm-reviews__grid { grid-template-columns: 1fr; gap: 1.25rem; }
+  .hm-review:nth-child(n) { margin-top: 0; }
+  .hm-arch { width: min(88%, 340px); }
+  .hm-arch__badge { width: 84px; height: 84px; left: -18px; }
+  .hm-featured__logos { width: 100%; }
+  .hm-featured__card { flex: 1; height: 120px; padding-inline: 0.75rem; }
+  .hm .hm-featured__card img { height: 96px; width: auto; max-width: 100%; object-fit: contain; }
+  .hm-story__photo { margin: 0 0 1rem 1rem; }
+  .hm-story__photo::before { inset: 1rem 1rem -1rem -1rem; }
+  .hm-hero .btn--saffron { width: 100%; }
+}

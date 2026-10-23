@@ -1,0 +1,84 @@
+/* ==========================================================================
+   Responsive overrides — desktop-first, tested at
+   320 / 375 / 425 / 768 / 1024 / 1280 / 1440+
+   ========================================================================== */
+
+/* ---------- ≤ 1024px : tablets landscape ---------- */
+@media (max-width: 1024px) {
+  .footer-grid { grid-template-columns: 1fr 1fr; }
+  .footer-col--brand { grid-column: 1 / -1; }
+  .contact-top { grid-template-columns: 1fr; }
+  .call-card { max-width: 520px; }
+  .hours-grid { grid-template-columns: 1fr; }
+  .brand__name { font-size: 1.05rem; }
+}
+
+/* ---------- ≤ 1400px : keep the footer credit clear of the floating WhatsApp button ---------- */
+@media (min-width: 601px) and (max-width: 1400px) {
+  .footer-bottom { padding-right: 76px; }
+}
+
+/* ---------- ≤ 960px : switch to mobile navigation ---------- */
+@media (max-width: 960px) {
+  :root { --header-h: 68px; }
+  .primary-nav,
+  .site-header .header-call { display: none; }
+  .nav-toggle { display: block; }
+  .brand img { width: 58px; height: 58px; }
+  .brand__name { font-size: 1.15rem; }
+
+  .split,
+  .feedback-grid { grid-template-columns: 1fr; }
+
+  .split--media-first > :first-child { order: 2; }
+  .menu-columns { columns: 1; }
+  .map-card,
+  .map-card iframe { min-height: 360px; }
+}
+
+/* ---------- ≤ 768px : tablets portrait / large phones ---------- */
+@media (max-width: 768px) {
+  .values__grid { grid-template-columns: 1fr; }
+  .page-hero::after { background: linear-gradient(180deg, rgba(23, 18, 15, 0.85), rgba(23, 18, 15, 0.92)); }
+  .carousel__slide { flex-basis: calc((100% - 16px) / 2); }
+}
+
+/* ---------- ≤ 600px : phones ---------- */
+@media (max-width: 600px) {
+  .footer-grid { grid-template-columns: 1fr; gap: 2rem; }
+  .footer-brand { flex-direction: column; align-items: flex-start; }
+  .footer-bottom { flex-direction: column; text-align: center; padding-bottom: 5.5rem; }
+  .footer-credit { padding-left: 0; border-left: 0; }
+  .form-grid { grid-template-columns: 1fr; }
+
+  .menu-item {
+    grid-template-columns: 1fr auto;
+    grid-template-areas:
+      "name price"
+      "btn btn";
+  }
+  .menu-item__name { grid-area: name; }
+  .menu-item__price { grid-area: price; }
+  .menu-item .order-btn { grid-area: btn; justify-self: start; }
+
+  .hours-row { flex-direction: column; gap: 0.25rem; }
+  .carousel__slide { flex-basis: 100%; }
+
+  .wa-float { padding: 0.4rem; right: 14px; bottom: 14px; }
+  .wa-float__label { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+}
+
+/* ---------- ≤ 375px : small phones ---------- */
+@media (max-width: 375px) {
+  :root { --gutter: 1rem; }
+  .brand img { width: 50px; height: 50px; }
+  .brand { gap: 0.5rem; }
+  .brand__name { font-size: 0.95rem; white-space: normal; max-width: 9rem; }
+  .btn { padding-inline: 1.25rem; }
+  .happy__hours { font-size: 1rem; padding: 0.75rem 1rem; }
+}
+
+/* ---------- ≥ 1440px : wide screens ---------- */
+@media (min-width: 1440px) {
+  :root { --max: 1320px; }
+}
